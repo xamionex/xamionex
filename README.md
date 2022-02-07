@@ -7,6 +7,10 @@
 
 ![xamionex's GitHub stats](https://github-readme-stats.vercel.app/api?username=xamionex&count_private=true&show_icons=true&theme=midnight-purple)
 
+![xamionex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amione&theme=midnight-purple)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamionex&layout=compact&theme=midnight-purple)
+
 I'm just curious,<br/>
     nothing else<br/>
 ◤————————◥<br/>
