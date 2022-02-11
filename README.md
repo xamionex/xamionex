@@ -28,6 +28,9 @@ Also based, homan\
 
 <p align="center">
   <img style="display: block" src="https://discord.c99.nl/widget/theme-3/139095725110722560.png" />
+</p>
+
+<p align="center">
   <img style="display: inline" src="https://dev.discordprofiles.me/badge/vscode/139095725110722560" />
   <img style="display: inline" src="https://dev.discordprofiles.me/badge/status/139095725110722560?simple=true" />
   <img style="display: inline" src="https://dev.discordprofiles.me/badge/playing/139095725110722560" />
