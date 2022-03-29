@@ -20,7 +20,7 @@ Also based, homan\
 [![Kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/amione)
     </td>
     <td width=50%>
-      <a href="https://wakatime.com/@amione">
+      <a href="https://github-readme-stats.vercel.app/">
 ![amione's GitHub stats](https://github-readme-stats.vercel.app/api?username=xamionex&count_private=true&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamionex&layout=compact&theme=midnight-purple)
       </a>
