@@ -38,5 +38,7 @@ Also based, homan\
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amione&theme=midnight-purple" />
+  <a href="https://wakatime.com/@amione">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amione&theme=midnight-purple" />
+  </a>
 </p>
