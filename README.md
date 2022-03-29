@@ -20,8 +20,10 @@ Also based, homan\
 [![Kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/amione)
     </td>
     <td width=50%>
+      <a href="https://wakatime.com/@amione">
 ![amione's GitHub stats](https://github-readme-stats.vercel.app/api?username=xamionex&count_private=true&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamionex&layout=compact&theme=midnight-purple)
+      </a>
     </td>
   </tr>
 </table>
@@ -34,7 +36,9 @@ Also based, homan\
   <img style="display: inline" src="https://dev.discordprofiles.me/badge/vscode/139095725110722560" />
   <img style="display: inline" src="https://dev.discordprofiles.me/badge/status/139095725110722560?simple=true" />
   <img style="display: inline" src="https://dev.discordprofiles.me/badge/playing/139095725110722560" />
-  <img style="display: inline" src="https://wakatime.com/badge/user/6fd038ee-1943-42ab-a1b5-2179f8846e21.svg" href="https://wakatime.com/@6fd038ee-1943-42ab-a1b5-2179f8846e21" />
+  <a href="https://wakatime.com/@amione">
+    <img style="display: inline" src="https://wakatime.com/badge/user/6fd038ee-1943-42ab-a1b5-2179f8846e21.svg"/>
+  </a>
 </p>
 
 <p align="center">
