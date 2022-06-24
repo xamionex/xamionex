@@ -7,7 +7,7 @@
   <a href="https://petar.tk">Personal Site</a>
 </p>
 <p align="center">
-  <a href="https://dev.discordprofiles.me">
+<!--   <a href="https://dev.discordprofiles.me">
     <img src="https://dev.discordprofiles.me/badge/status/139095725110722560?simple=true"/>
   </a>
   <a href="https://dev.discordprofiles.me">
@@ -15,7 +15,7 @@
   </a>
   <a href="https://dev.discordprofiles.me">
     <img src="https://dev.discordprofiles.me/badge/playing/139095725110722560"/>
-  </a>
+  </a> -->
   <a href="https://ko-fi.com/amione">
     <img src="https://badgen.net/badge/icon/kofi?icon=kofi&label"/>
   </a>
