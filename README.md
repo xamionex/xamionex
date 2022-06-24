@@ -18,6 +18,13 @@ Also based, homan\
 [![Kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/amione)
 [![Kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/amione)
 [![Kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/amione)
+<img style="display: inline" src="https://dev.discordprofiles.me/badge/vscode/139095725110722560" />
+<img style="display: inline" src="https://dev.discordprofiles.me/badge/status/139095725110722560?simple=true" />
+<img style="display: inline" src="https://dev.discordprofiles.me/badge/playing/139095725110722560" />
+<a href="https://wakatime.com/@amione">
+  <img style="display: inline" src="https://wakatime.com/badge/user/6fd038ee-1943-42ab-a1b5-2179f8846e21.svg"/>
+</a>
+<img style="display: inline" src="https://discord.c99.nl/widget/theme-3/139095725110722560.png" />
     </td>
     <td width=50%>
       <a href="https://github-readme-stats.vercel.app/">
@@ -29,15 +36,8 @@ Also based, homan\
 </table>
 
 <p align="center">
-  <img style="display: block" src="https://discord.c99.nl/widget/theme-3/139095725110722560.png" />
-</p>
-
-<p align="center">
-  <img style="display: inline" src="https://dev.discordprofiles.me/badge/vscode/139095725110722560" />
-  <img style="display: inline" src="https://dev.discordprofiles.me/badge/status/139095725110722560?simple=true" />
-  <img style="display: inline" src="https://dev.discordprofiles.me/badge/playing/139095725110722560" />
-  <a href="https://wakatime.com/@amione">
-    <img style="display: inline" src="https://wakatime.com/badge/user/6fd038ee-1943-42ab-a1b5-2179f8846e21.svg"/>
+  <a style="display: inline" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xamionex&column=-1&theme=onedark" />
   </a>
 </p>
 
