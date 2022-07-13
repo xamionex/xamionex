@@ -25,30 +25,4 @@
   <a href="https://wakatime.com/@amione">
     <img src="https://wakatime.com/badge/user/6fd038ee-1943-42ab-a1b5-2179f8846e21.svg"/>
   </a>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xamionex&column=-1&theme=onedark" />
-  </a>
 </p>
-
-<table>
-  <tr>
-    <td width=50%>
-      <a href="https://github-readme-stats.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amione&theme=midnight-purple" />
-      </a>
-    </td>
-    <td width=50%>
-      <a href="https://discord.c99.nl">
-        <img src="https://discord.c99.nl/widget/theme-3/139095725110722560.png" />
-      </a>
-      <a href="https://github-readme-stats.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api?username=xamionex&count_private=true&show_icons=true&theme=midnight-purple">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamionex&layout=compact&theme=midnight-purple">
-      </a>
-      <a href="https://readme-jokes.vercel.app">
-        <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" />
-      </a>
-    </td>
-    </tr>
-  </table>
