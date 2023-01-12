@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://petar.tk">Personal Site</a>
+  <a href="https://petar.cc">Personal Site</a>
 </p>
 <p align="center">
 <!--   <a href="https://dev.discordprofiles.me">
