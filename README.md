@@ -31,7 +31,7 @@
   </p>
   <p align="center">
     <a href="https://readme-jokes.vercel.app">
-      <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" />
+      <img src="/github-metrics.svg" alt="Metrics" width="100%">
     </a>
   </p>
   <a href="https://metrics.lecoq.io/embed">
