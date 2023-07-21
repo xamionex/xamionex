@@ -70,11 +70,6 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://petar.cc
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
