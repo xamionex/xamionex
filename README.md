@@ -5,7 +5,12 @@
 </p>
 <p align="center">
   <p align="center">
-    <img src="/github-metrics.svg" alt="Metrics" height="100%" width="100%" />
+    <p align="left">
+      <img src="/github-metrics-left.svg" alt="Metrics" height="100%" width="100%" />
+    </p>
+    <p alight="right">
+      <img src="/github-metrics-right.svg" alt="Metrics" height="100%" width="100%" />
+    </p>
   </p>
   <p align="center">
     <a href="https://discord.c99.nl">
