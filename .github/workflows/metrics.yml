@@ -27,7 +27,7 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           base_indepth: yes
           config_display: regular
           config_timezone: Europe/Belgrade
@@ -77,7 +77,7 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: repositories, metadata
           base_indepth: yes
           config_display: regular
           config_timezone: Europe/Belgrade
