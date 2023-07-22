@@ -1,25 +1,8 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img width="600" src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&vCenter=true&lines=Hello%2C+I'm+Petar!;I'm+a+Serbian+programmer.;I+hope+you+like+my+profile!" alt="Welcome Text" />
-  </a>
-</p>
-<p align="center">
-  <p align="center">
-    <p align="left">
-      <img src="/github-metrics-left.svg" alt="Metrics" height="100%" width="100%" />
-    </p>
-    <p alight="right">
-      <img src="/github-metrics-right.svg" alt="Metrics" height="100%" width="100%" />
-    </p>
-  </p>
-  <p align="center">
-    <a href="https://discord.c99.nl">
-      <img src="https://discord.c99.nl/widget/theme-3/139095725110722560.png" alt="Discord Card" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://readme-jokes.vercel.app">
-      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-    </a>
-  </p>
-</p>
+[<img align="left" width="390" src="https://raw.githubusercontent.com/xamionex/xamionex/main/general.svg">](#)
+[<img align="right" width="150" src="https://count.getloli.com/get/@:xamionex?theme=rule34">](#)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/xamionex/xamionex/main/socials.svg?p">](#)
+[<img align="right" width="390" height="31" src="https://raw.githubusercontent.com/xamionex/xamionex/main/blank.svg">](#)
+[<img align="right" width="390" src="https://raw.githubusercontent.com/xamionex/xamionex/main/coding.svg">](#)
+[<img width="100%" height="1" src="https://raw.githubusercontent.com/xamionex/xamionex/main/blank.svg">](#)
+[<img align="left" width="390" src="https://discord.c99.nl/widget/theme-3/139095725110722560.png">](#)
+[<img align="right" width="390" src="https://readme-jokes.vercel.app/api">](#)
