@@ -5,9 +5,7 @@
 </p>
 <p align="center">
   <p align="center">
-    <a href="https://metrics.lecoq.io/embed">
-      <img src="/github-metrics.svg" alt="Metrics" height="100%" width="100%" />
-    </a>
+    <img src="/github-metrics.svg" alt="Metrics" height="100%" width="100%" />
   </p>
   <p align="center">
     <a href="https://discord.c99.nl">
