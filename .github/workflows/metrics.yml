@@ -28,7 +28,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: columns
+          config_display: regular
           config_timezone: Europe/Belgrade
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -71,7 +71,7 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://petar.cc
-          plugin_screenshot_wait: 10000
+          plugin_screenshot_wait: 5000
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_achievements_limit: 2
