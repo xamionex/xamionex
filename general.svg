@@ -1615,7 +1615,7 @@ If it matters I installed v11.3 using winget</i>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28.7kb of code in 87 edited files across 33 commits over last 14 days</small>
+                <small>estimation from 28.5kb of code in 84 edited files across 31 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1657,7 +1657,7 @@ If it matters I installed v11.3 using winget</i>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2023, 03:53:24 (timezone Europe/Belgrade) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Sept 2023, 04:25:24 (timezone Europe/Belgrade) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
