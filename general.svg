@@ -1608,14 +1608,14 @@ If it matters I installed v11.3 using winget</i>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 9.17kb of code in 14 edited files across 10 commits over last 14 days</small>
+                <small>estimation from 2.13kb of code in 7 edited files across 8 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.62216624685135" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="369.62216624685135" y="0" width="90.37783375314861" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.8562874251497" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="279.8562874251497" y="0" width="180.1437125748503" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1627,9 +1627,9 @@ If it matters I installed v11.3 using winget</i>
                                 HTML
                             </div>
                             <small>
-                                <div>69 lines</div>
-                                <div>5.42 kB</div>
-                                <div>80.35%</div>
+                                <div>6 lines</div>
+                                <div>508 bytes</div>
+                                <div>60.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1640,9 +1640,9 @@ If it matters I installed v11.3 using winget</i>
                                 JavaScript
                             </div>
                             <small>
-                                <div>26 lines</div>
-                                <div>1.33 kB</div>
-                                <div>19.65%</div>
+                                <div>2 lines</div>
+                                <div>327 bytes</div>
+                                <div>39.16%</div>
                             </small>
                         </div>
                     </section>
@@ -1650,7 +1650,7 @@ If it matters I installed v11.3 using winget</i>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2023, 10:13:01 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2023, 11:10:06 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
