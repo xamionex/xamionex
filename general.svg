@@ -336,6 +336,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">xamionex/jellyfin-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c41c789</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/xamionex/jellyfin-web</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 8 commits in
                                         <span class="repo">xamionex/jellyfin-web</span>
                                     </div>
@@ -395,26 +415,6 @@
                                         <span class="repo">jellyfin/jellyfin-web</span>
                                         to
                                         <span class="repo">xamionex/jellyfin-web</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/jellyfin-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#34fa56a</div>
-                                        <div class="message">Update main.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -1593,14 +1593,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 22.2kb of code in 57 edited files across 20 commits over last 12 days</small>
+                <small>estimation from 22.3kb of code in 58 edited files across 22 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.2702334509877" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="324.2702334509877" y="0" width="135.7297665490123" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.6724702105328" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="324.6724702105328" y="0" width="135.32752978946718" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1612,9 +1612,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>224 lines</div>
-                                <div>11.3 kB</div>
-                                <div>70.49%</div>
+                                <div>226 lines</div>
+                                <div>11.4 kB</div>
+                                <div>70.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1627,7 +1627,7 @@
                             <small>
                                 <div>154 lines</div>
                                 <div>4.76 kB</div>
-                                <div>29.51%</div>
+                                <div>29.42%</div>
                             </small>
                         </div>
                     </section>
@@ -1635,7 +1635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2023, 05:10:25 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2023, 06:12:06 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
