@@ -1743,7 +1743,7 @@ Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-web/fr/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2023, 23:09:07 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2023, 00:09:27 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
