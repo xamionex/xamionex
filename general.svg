@@ -338,6 +338,55 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#7 More item slots don't work for anyone but host</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Nipeno in <span class="repo">MikeS-MS/MikesTweaks</span></div>
+                                    <div class="comment">I don't know if it will help you but HDLethalCompany and FOV_Adjust used to conflict somewhat I think (fog would disappear if you weren't looking at lights) but I don't know if that's the case still, either way your priority should be testing with these mods I guess.
+Also in my case GameMaster would conflict with HDLethalCompany (versions 1.4.0-1.4.1)
+Hope I helped and good luck fixing this, wish more people paid attention to your mod cause it's good.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#7 More item slots don't work for anyone but host</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Nipeno in <span class="repo">MikeS-MS/MikesTweaks</span></div>
+                                    <div class="comment">Common Mods as of right now:
+BepInExPack by BepInEx
+LetMeLookDown by FlipMods
+LC_Better_Teleport by JT
+ShipLoot by tinyhoot
+LC_API by 2018
+HDLethalCompany by Sligili (version 1.3.0)
+FasterItemDropship by FlipMods (version 1.0.2)
+MikesTweaks by MikeMediaStudios
+Common Mods that I deleted:
+FOV_Adjust by Rozebud
+LateCompany by anormaltwig
+WalkieUse by Renegades (Removed because MikesTweaks has it)
+FlashlightToggle by Renegades (Removed because MikesTweaks has it)</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#2 Can't start game</span>
                                     </div>
                                 </div>
@@ -379,46 +428,6 @@ Thank you!</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">Sligili/HDLethalCompany</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#7 More item slots don't work for anyone but host</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Nipeno in <span class="repo">MikeS-MS/MikesTweaks</span></div>
-                                    <div class="comment">
-                                        <i>It seems LateCompany works. I tested it and clients do in fact have everything working. But Late joining seems to cause some other errors, don't know if those persist with the mod on its own or paired with mine.</i>
-                                        Not sure how I can help unless the OP posts their modlist and we see some common mods, I can't revert deleted mods so I guess until I find the mod in question I can't help any more
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#7 More item slots don't work for anyone but host</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Nipeno in <span class="repo">MikeS-MS/MikesTweaks</span></div>
-                                    <div class="comment">
-                                        <i>Did it happen when people joined late, or when they joined normally before you even started the game, or both?</i>
-                                        Normal join, the LateCompany mod was causing issues like desyncs with items and so we removed it
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1482,7 +1491,7 @@ Thank you!</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            135 issue comments
+                            137 issue comments
                         </div>
                     </section>
                     <section>
@@ -1588,7 +1597,7 @@ Thank you!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2023, 19:11:03 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2023, 20:07:35 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
