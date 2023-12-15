@@ -1581,7 +1581,7 @@ LethalExpansion by HolographicWings
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 14 days</small>
+                  over last 9 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -1589,7 +1589,7 @@ LethalExpansion by HolographicWings
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2023, 18:09:34 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 19:12:22 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
