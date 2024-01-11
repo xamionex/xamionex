@@ -402,7 +402,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.17m out of 53.3m repositories</span>
+                                    <span class="gh">ranked 1.17m out of 56.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -443,7 +443,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 450k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 450k out of 56.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">69</div>
                                     </div>
@@ -722,13 +722,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CosmeticsMegapack</span>
-                                <div class="bar" style="width: 41.304%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.648%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 38.696%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">48%</span>
+                                <div class="bar" style="width: 34.848000000000006%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">44%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">CosmeticsMegapackWithCache</span>
+                                <div class="bar" style="width: 3.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -737,28 +742,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 23.447999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">29%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">INI</span>
-                                <div class="bar" style="width: 18.896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 28.895999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 14.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 17.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 14.584000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 15.031999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">INI</span>
+                                <div class="bar" style="width: 12.216000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 5.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 3.1519999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
