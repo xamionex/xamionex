@@ -343,6 +343,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5a797db</div>
+                                        <div class="message">Finally fix particles coloring :D</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xamionex/css</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#10a951a</div>
                                         <div class="message">Actually use brightness filter in particles</div>
                                     </div>
@@ -407,26 +427,6 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
                                     <div class="commit">
                                         <div class="sha">#d9159a7</div>
                                         <div class="message">Add particles</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/css</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f96a757</div>
-                                        <div class="message">Change version</div>
                                     </div>
                                 </div>
                             </section>
@@ -1546,14 +1546,14 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.45mb of code in 3325 edited files across 1039 commits</small>
+                <small>estimation from 2.46mb of code in 3326 edited files across 1040 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.93541019950544" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="388.93541019950544" y="0" width="71.06458980049455" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.14556376866926" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="388.14556376866926" y="0" width="71.85443623133077" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1567,7 +1567,7 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
                             <small>
                                 <div>8.10k lines</div>
                                 <div>366 kB</div>
-                                <div>84.55%</div>
+                                <div>84.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1578,9 +1578,9 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
                                 CSS
                             </div>
                             <small>
-                                <div>1.58k lines</div>
-                                <div>67 kB</div>
-                                <div>15.45%</div>
+                                <div>1.60k lines</div>
+                                <div>67.9 kB</div>
+                                <div>15.62%</div>
                             </small>
                         </div>
                     </section>
@@ -1588,14 +1588,14 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 174kb of code in 161 edited files across 42 commits over last 14 days</small>
+                <small>estimation from 176kb of code in 162 edited files across 44 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.68265299050523" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="350.68265299050523" y="0" width="109.31734700949477" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.1287286279737" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="344.1287286279737" y="0" width="115.87127137202627" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1609,7 +1609,7 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
                             <small>
                                 <div>1.47k lines</div>
                                 <div>55 kB</div>
-                                <div>76.24%</div>
+                                <div>74.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1620,9 +1620,9 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
                                 CSS
                             </div>
                             <small>
-                                <div>447 lines</div>
-                                <div>17.1 kB</div>
-                                <div>23.76%</div>
+                                <div>468 lines</div>
+                                <div>18.5 kB</div>
+                                <div>25.19%</div>
                             </small>
                         </div>
                     </section>
@@ -1630,7 +1630,7 @@ Added toggles for all the off-sidebar buttons, added vars for particles and many
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2024, 12:08:39 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2024, 13:16:20 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
