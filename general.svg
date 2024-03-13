@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -333,6 +333,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xamionex/css</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ec1681</div>
+                                        <div class="message">Fixed buttons not updating, and some coloring changes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -402,26 +422,6 @@
                                     <div class="commit">
                                         <div class="sha">#c573d66</div>
                                         <div class="message">Change text size</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/obswidget</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b81b02c</div>
-                                        <div class="message">Add a setting for padding and change the look of the widget and check for overflow and accomodate with scrolling text</div>
                                     </div>
                                 </div>
                             </section>
@@ -1568,14 +1568,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.47mb of code in 3347 edited files across 1058 commits</small>
+                <small>estimation from 2.48mb of code in 3348 edited files across 1059 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.37788454053094" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="375.37788454053094" y="0" width="84.62211545946909" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.07244372334674" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="374.07244372334674" y="0" width="85.92755627665328" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1589,7 +1589,7 @@
                             <small>
                                 <div>8.10k lines</div>
                                 <div>366 kB</div>
-                                <div>81.6%</div>
+                                <div>81.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1600,9 +1600,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>2.04k lines</div>
-                                <div>82.7 kB</div>
-                                <div>18.4%</div>
+                                <div>2.09k lines</div>
+                                <div>84.2 kB</div>
+                                <div>18.68%</div>
                             </small>
                         </div>
                     </section>
@@ -1610,14 +1610,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 59.5kb of code in 22 edited files across 24 commits over last 13 days</small>
+                <small>estimation from 61.4kb of code in 23 edited files across 26 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.65020124405413" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="243.65020124405413" y="0" width="216.34979875594584" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.29132443531824" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="270.29132443531824" y="0" width="189.70867556468173" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1629,9 +1629,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>359 lines</div>
-                                <div>7.24 kB</div>
-                                <div>52.97%</div>
+                                <div>422 lines</div>
+                                <div>9.16 kB</div>
+                                <div>58.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1644,7 +1644,7 @@
                             <small>
                                 <div>65 lines</div>
                                 <div>6.43 kB</div>
-                                <div>47.03%</div>
+                                <div>41.24%</div>
                             </small>
                         </div>
                     </section>
@@ -1652,7 +1652,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 09:11:47 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 10:10:50 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
