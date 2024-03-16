@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1547" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1880" class="">
     <defs>
         <style/>
     </defs>
@@ -333,6 +333,112 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 231 commits in
+                                        <span class="repo">xamionex/jellyfin-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1f26e0b</div>
+                                        <div class="message">Translated using Weblate (Polish)
+Translation: Jellyfin/Jellyfin Web
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-web/pl/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9aa4733</div>
+                                        <div class="message">Translated using Weblate (Czech)
+Translation: Jellyfin/Jellyfin Web
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-web/cs/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e6c367</div>
+                                        <div class="message">Merge pull request #5194 from nyanmisaka/update-country-region-trans</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03be323</div>
+                                        <div class="message">Update LabelCountry to ease the naming of controversial regions
+
+Signed-off-by: nyanmisaka &lt;nst799610810@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a52518</div>
+                                        <div class="message">Merge branch 'master' into relax-hevc-safari</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7f925a</div>
+                                        <div class="message">Enable client side tone-mapping on EdgeChromium 121+
+
+Signed-off-by: nyanmisaka &lt;nst799610810@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c56ba88</div>
+                                        <div class="message">Relax HEVC on Safari for hvc1/dvh1 direct-play
+
+Signed-off-by: nyanmisaka &lt;nst799610810@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed46ee5</div>
+                                        <div class="message">Replace deprecated getItemImageUrl with imageUrlsApi.getItemImageUrlById</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#876fbee</div>
+                                        <div class="message">Fix navigation for mobile layout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3b618f</div>
+                                        <div class="message">Refactor  ItemsContainer invalidate Queries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42b4d08</div>
+                                        <div class="message">Replace card component in SectionContainer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a12d5b</div>
+                                        <div class="message">Replace card and list component in itemsView</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31a77c2</div>
+                                        <div class="message">Update favorite and played state to use Query Invalidation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97472ac</div>
+                                        <div class="message">Convert CardView to react</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9efc71f</div>
+                                        <div class="message">Convert ListView to react</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc87ba3</div>
+                                        <div class="message">Add reusable component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3b5d50</div>
+                                        <div class="message">Convert mediainfo PrimaryMediaInfo to react</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e90f66</div>
+                                        <div class="message">Migrate Indicator to react</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#090e299</div>
+                                        <div class="message">Add RefreshIndicator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22bce0c</div>
+                                        <div class="message">Add shared itemDto type</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -404,23 +510,6 @@
                                         <div class="sha">#c296572</div>
                                         <div class="message">new system</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#4 [BUG] Not starting downloads</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">Tutislav/neodeemer</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1586,17 +1675,30 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 16.3kb of code in 18 edited files across 15 commits over last 9 days</small>
+                <small>estimation from 139kb of code in 101 edited files across 34 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.48491810568447" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="309.48491810568447" y="0" width="150.51508189431556" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.1647132429614" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="425.1647132429614" y="0" width="34.83528675703858" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TypeScript
+                            </div>
+                            <small>
+                                <div>4.36k lines</div>
+                                <div>110 kB</div>
+                                <div>92.43%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1607,20 +1709,7 @@
                             <small>
                                 <div>144 lines</div>
                                 <div>9.08 kB</div>
-                                <div>67.28%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                CSS
-                            </div>
-                            <small>
-                                <div>184 lines</div>
-                                <div>4.42 kB</div>
-                                <div>32.72%</div>
+                                <div>7.57%</div>
                             </small>
                         </div>
                     </section>
@@ -1628,7 +1717,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Mar 2024, 19:11:40 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Mar 2024, 20:08:46 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
