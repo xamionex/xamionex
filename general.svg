@@ -1695,14 +1695,14 @@ Signed-off-by: nyanmisaka &lt;nst799610810@gmail.com&gt;</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 141kb of code in 109 edited files across 40 commits over last 14 days</small>
+                <small>estimation from 138kb of code in 105 edited files across 38 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.1647132429614" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="425.1647132429614" y="0" width="34.83528675703858" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.50192018700955" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="425.50192018700955" y="0" width="34.49807981299048" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1716,7 +1716,7 @@ Signed-off-by: nyanmisaka &lt;nst799610810@gmail.com&gt;</div>
                             <small>
                                 <div>4.36k lines</div>
                                 <div>110 kB</div>
-                                <div>92.43%</div>
+                                <div>92.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1727,9 +1727,9 @@ Signed-off-by: nyanmisaka &lt;nst799610810@gmail.com&gt;</div>
                                 HTML
                             </div>
                             <small>
-                                <div>144 lines</div>
-                                <div>9.08 kB</div>
-                                <div>7.57%</div>
+                                <div>141 lines</div>
+                                <div>8.98 kB</div>
+                                <div>7.5%</div>
                             </small>
                         </div>
                     </section>
@@ -1737,7 +1737,7 @@ Signed-off-by: nyanmisaka &lt;nst799610810@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2024, 07:12:25 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 08:09:56 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
