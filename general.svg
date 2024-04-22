@@ -1600,14 +1600,14 @@ I'm guessing infinite craft was uninitialized therefore the extension didn't wor
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 9.74kb of code in 56 edited files across 18 commits over last 14 days</small>
+                <small>estimation from 8.43kb of code in 54 edited files across 16 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.8527750083084" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.8527750083084" y="0" width="13.147224991691592" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.62495141857755" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.62495141857755" y="0" width="15.375048581422462" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1619,9 +1619,9 @@ I'm guessing infinite craft was uninitialized therefore the extension didn't wor
                                 Python
                             </div>
                             <small>
-                                <div>266 lines</div>
-                                <div>8.77 kB</div>
-                                <div>97.14%</div>
+                                <div>227 lines</div>
+                                <div>7.46 kB</div>
+                                <div>96.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1634,7 +1634,7 @@ I'm guessing infinite craft was uninitialized therefore the extension didn't wor
                             <small>
                                 <div>11 lines</div>
                                 <div>258 bytes</div>
-                                <div>2.86%</div>
+                                <div>3.34%</div>
                             </small>
                         </div>
                     </section>
@@ -1642,7 +1642,7 @@ I'm guessing infinite craft was uninitialized therefore the extension didn't wor
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2024, 09:10:24 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2024, 10:13:55 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
