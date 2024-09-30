@@ -347,6 +347,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b9efbfe</div>
+                                        <div class="message">Added more freedom for crafting window positioning and made the crafting window background dynamic</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xamionex/DarkwoodCustomizer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#03e420b</div>
                                         <div class="message">Dynamic handling of ammo in custom items, add notes to default custom items that will explain *everything* i could think of</div>
                                     </div>
@@ -410,26 +430,6 @@
 The old cfg does nothing
 As for per item stacks, it should be defined by you in the Customs/Items.json file
 See examples by looking at the ModDefaults/Items.json file</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/DarkwoodCustomizer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4d1a674</div>
-                                        <div class="message">Update Readme.md</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1607,7 +1607,7 @@ See examples by looking at the ModDefaults/Items.json file</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 187kb of code in 185 edited files across 102 commits over last 7 days</small>
+                <small>estimation from 191kb of code in 189 edited files across 104 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1625,8 +1625,8 @@ See examples by looking at the ModDefaults/Items.json file</div>
                                 C#
                             </div>
                             <small>
-                                <div>3.27k lines</div>
-                                <div>174 kB</div>
+                                <div>3.33k lines</div>
+                                <div>178 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1635,7 +1635,7 @@ See examples by looking at the ModDefaults/Items.json file</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2024, 16:12:20 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2024, 17:13:13 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
