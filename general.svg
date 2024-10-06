@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1574" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1557" class="">
     <defs>
         <style/>
     </defs>
@@ -237,7 +237,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.63157894736842 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.55555555555555 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                     <span class="title nowrap">
@@ -248,11 +248,11 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="207.78947368421052 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="201.05555555555557 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                     <span class="title nowrap">
-                                        63
+                                        61
                                         <small>%</small>
                                     </span>
                                 </div>
@@ -269,11 +269,11 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="51.94736842105263 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="54.83333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                     <span class="title nowrap">
-                                        16
+                                        17
                                         <small>%</small>
                                     </span>
                                 </div>
@@ -300,22 +300,22 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.31578947368421 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.277777777777775 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                     <span class="title nowrap">
-                                        5
+                                        6
                                         <small>%</small>
                                     </span>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.31578947368421 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.277777777777775 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">
-                                        5
+                                        6
                                         <small>%</small>
                                     </span>
                                 </div>
@@ -341,12 +341,13 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#17 Music/transition not timed correctly after modifying night lenght</span>
+                                        <span class="issue">#20 Customizable npc loot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by user7562 in <span class="repo">xamionex/DarkwoodCustomizer</span></div>
-                                    <div class="comment">They should be in the itemlog.log but if they arent just wait for me to eventually add them to the default config</div>
+                                    <div class="comment">Test in 1.4.3 please
+CRI's are generated when loading a save or whatever you're wanting to configure, gets spawned by the game</div>
                                 </div>
                             </section>
                         </div>
@@ -358,18 +359,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#17 Music/transition not timed correctly after modifying night lenght</span>
+                                        <span class="issue">#19 Customizable night trader inventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by user7562 in <span class="repo">xamionex/DarkwoodCustomizer</span></div>
-                                    <div class="comment">I guess just make sure not to go above 2 or something, it's still 2.25x slower than normal for night time
-The time update process goes like this:
-
-Set time to 0 (day starts)
-Every interval add 2 seconds (check if its night time, if it is use night interval)
-Set interval respectively (with the mod you change this)
-Every x (x being interval you set with the mod) seconds update the time</div>
+                                    <div class="comment">Merging into #20 since in-code this is the same thing</div>
                                 </div>
                             </section>
                         </div>
@@ -382,7 +377,7 @@ Every x (x being interval you set with the mod) seconds update the time</div>
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#17 Music/transition not timed correctly after modifying night lenght</span>
+                                        <span class="issue">#19 Customizable night trader inventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -404,8 +399,8 @@ Every x (x being interval you set with the mod) seconds update the time</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6767f0b</div>
-                                        <div class="message">Updated time documentation</div>
+                                        <div class="sha">#bb8c9e4</div>
+                                        <div class="message">Experimental Release: CustomRandomInventories</div>
                                     </div>
                                 </div>
                             </section>
@@ -423,12 +418,7 @@ Every x (x being interval you set with the mod) seconds update the time</div>
                                 </div>
                                 <div class="details">
                                     <div>opened by user7562 in <span class="repo">xamionex/DarkwoodCustomizer</span></div>
-                                    <div class="comment">
-                                        <i>Time.zip heres my time config</i>
-                                        well of course it's gonna transfer 5 seconds late, you set the interval to 5 seconds
-it waits 5 seconds then updates the time, which includes calculating when the night ends
-gonna update the documentation but yeah, this works as intended as you were never meant to have 5 second time interval and only 1s and 0.75s if it was night
-                                    </div>
+                                    <div class="comment">They should be in the itemlog.log but if they arent just wait for me to eventually add them to the default config</div>
                                 </div>
                             </section>
                         </div>
@@ -1503,7 +1493,7 @@ gonna update the documentation but yeah, this works as intended as you were neve
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            253 issue comments
+                            255 issue comments
                         </div>
                     </section>
                     <section>
@@ -1557,7 +1547,7 @@ gonna update the documentation but yeah, this works as intended as you were neve
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.18mb of code in 3716 edited files across 1212 commits</small>
+                <small>estimation from 3.18mb of code in 3728 edited files across 1213 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1599,7 +1589,7 @@ gonna update the documentation but yeah, this works as intended as you were neve
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 275kb of code in 239 edited files across 128 commits over last 13 days</small>
+                <small>estimation from 284kb of code in 252 edited files across 130 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1617,8 +1607,8 @@ gonna update the documentation but yeah, this works as intended as you were neve
                                 C#
                             </div>
                             <small>
-                                <div>4.46k lines</div>
-                                <div>260 kB</div>
+                                <div>4.67k lines</div>
+                                <div>269 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1627,7 +1617,7 @@ gonna update the documentation but yeah, this works as intended as you were neve
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 00:10:44 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 01:11:02 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
