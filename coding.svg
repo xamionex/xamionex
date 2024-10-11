@@ -394,7 +394,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 467k out of 220m repositories</span>
+                                    <span class="gh">ranked 467k out of 214m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">75</div>
                                     </div>
@@ -443,7 +443,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.36m out of 220m repositories</span>
+                                    <span class="gh">ranked 1.36m out of 214m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -516,7 +516,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.1155778894472363 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.8944723618090453 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -536,10 +536,10 @@
                                     <span class="prefix"></span>
                                     Chatter
                                     <div class="value-wrapper">
-                                        <div class="value">5</div>
+                                        <div class="value">6</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 5 times</div>
+                                <div class="text">Participated in discussions 6 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
