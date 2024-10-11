@@ -1576,7 +1576,7 @@ CRI's are generated when loading a save or whatever you're wanting to configure,
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 184kb of code in 114 edited files across 50 commits over last 14 days</small>
+                <small>estimation from 182kb of code in 108 edited files across 46 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1594,8 +1594,8 @@ CRI's are generated when loading a save or whatever you're wanting to configure,
                                 C#
                             </div>
                             <small>
-                                <div>2.87k lines</div>
-                                <div>181 kB</div>
+                                <div>2.85k lines</div>
+                                <div>179 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1604,7 +1604,7 @@ CRI's are generated when loading a save or whatever you're wanting to configure,
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2024, 00:11:20 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2024, 01:11:41 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
