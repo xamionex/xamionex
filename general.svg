@@ -1551,7 +1551,7 @@ I haven't looked into the code for it to see how it functions but that's how i'd
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.22mb of code in 3745 edited files across 1219 commits</small>
+                <small>estimation from 3.22mb of code in 3746 edited files across 1220 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1621,7 +1621,7 @@ I haven't looked into the code for it to see how it functions but that's how i'd
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2024, 00:13:13 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2024, 01:11:42 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
