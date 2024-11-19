@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1507" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1474" class="">
     <defs>
         <style/>
     </defs>
@@ -341,34 +341,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">xamionex/RainMeadowPupifier</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#16fc1d6</div>
-                                        <div class="message">bump version</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
                                         <span class="repo">xamionex/Rain-Meadow</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">RMP-support</span></div>
+                                    <div>on branch <span class="code">isPup-Sync</span></div>
                                     <div class="commit">
-                                        <div class="sha">#921a9b6</div>
-                                        <div class="message">Sync isPup if it's different</div>
+                                        <div class="sha">#8fce8e9</div>
+                                        <div class="message">add isPup sync</div>
                                     </div>
                                 </div>
                             </section>
@@ -381,6 +361,22 @@
                                     </svg>
                                     <div class="content">
                                         Created new
+                      branch
+                                        <span class="code">isPup-Sync</span>
+                                        in
+                                        <span class="repo">xamionex/Rain-Meadow</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
                       branch
                                         <span class="code">RMP-support</span>
                                         in
@@ -396,15 +392,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/Rain-Meadow-Slugpup-Players</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">xamionex/Rain-Meadow</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">RMP-support</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4c2acde</div>
-                                        <div class="message">Add readme, fix body issues, add controller remix menu support</div>
+                                        <div class="sha">#6187add</div>
+                                        <div class="message">Merge branch 'henpemaz:main' into RMP-support</div>
                                     </div>
                                 </div>
                             </section>
@@ -417,14 +413,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">xamionex/Rain-Meadow-Slugpup-Players</span>
+                                        <span class="repo">xamionex/RainMeadowPupifier</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2cd122e</div>
-                                        <div class="message">remove log test</div>
+                                        <div class="sha">#16fc1d6</div>
+                                        <div class="message">bump version</div>
                                     </div>
                                 </div>
                             </section>
@@ -1566,7 +1562,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.39mb of code in 3836 edited files across 1248 commits</small>
+                <small>estimation from 3.39mb of code in 3843 edited files across 1249 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1608,14 +1604,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 81.3kb of code in 94 edited files across 54 commits over last 5 days</small>
+                <small>estimation from 82kb of code in 97 edited files across 58 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.9463163906339" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="337.9463163906339" y="0" width="122.05368360936606" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.7348399585828" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="339.7348399585828" y="0" width="120.26516004141719" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1627,9 +1623,9 @@
                                 C#
                             </div>
                             <small>
-                                <div>728 lines</div>
-                                <div>32.1 kB</div>
-                                <div>73.47%</div>
+                                <div>756 lines</div>
+                                <div>32.8 kB</div>
+                                <div>73.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1642,7 +1638,7 @@
                             <small>
                                 <div>232 lines</div>
                                 <div>11.6 kB</div>
-                                <div>26.53%</div>
+                                <div>26.14%</div>
                             </small>
                         </div>
                     </section>
@@ -1650,7 +1646,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2024, 13:23:11 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2024, 14:23:19 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
