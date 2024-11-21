@@ -340,6 +340,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xamionex/RainMeadowPupifier</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a415382</div>
+                                        <div class="message">update mod checking and bump ver</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">xamionex/RainMeadowPupifier</span>
                                     </div>
@@ -413,26 +433,6 @@
                                     <div class="commit">
                                         <div class="sha">#0d35638</div>
                                         <div class="message">Fix jumping and stats</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/RainMeadowPupifier</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c5a263b</div>
-                                        <div class="message">Major Refactoring, fixes movement issues and jumping off pipes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1620,14 +1620,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 108kb of code in 123 edited files across 71 commits over last 8 days</small>
+                <small>estimation from 109kb of code in 129 edited files across 73 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.50566237633683" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="383.50566237633683" y="0" width="76.49433762366316" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.73198563076704" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="384.73198563076704" y="0" width="75.26801436923294" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1639,9 +1639,9 @@
                                 C#
                             </div>
                             <small>
-                                <div>1.27k lines</div>
-                                <div>58.2 kB</div>
-                                <div>83.37%</div>
+                                <div>1.29k lines</div>
+                                <div>59.3 kB</div>
+                                <div>83.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1654,7 +1654,7 @@
                             <small>
                                 <div>232 lines</div>
                                 <div>11.6 kB</div>
-                                <div>16.63%</div>
+                                <div>16.36%</div>
                             </small>
                         </div>
                     </section>
@@ -1662,7 +1662,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2024, 23:12:01 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2024, 00:12:44 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
