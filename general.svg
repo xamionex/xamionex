@@ -1714,14 +1714,14 @@ sync region gates</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 362kb of code in 426 edited files across 234 commits over last 14 days</small>
+                <small>estimation from 361kb of code in 423 edited files across 232 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.882558889469" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="445.882558889469" y="0" width="14.117441110531004" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.8330020248343" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="445.8330020248343" y="0" width="14.166997975165732" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1733,9 +1733,9 @@ sync region gates</div>
                                 C#
                             </div>
                             <small>
-                                <div>7.23k lines</div>
-                                <div>315 kB</div>
-                                <div>96.93%</div>
+                                <div>7.19k lines</div>
+                                <div>314 kB</div>
+                                <div>96.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1748,7 +1748,7 @@ sync region gates</div>
                             <small>
                                 <div>447 lines</div>
                                 <div>9.99 kB</div>
-                                <div>3.07%</div>
+                                <div>3.08%</div>
                             </small>
                         </div>
                     </section>
@@ -1756,7 +1756,7 @@ sync region gates</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2024, 17:13:57 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2024, 18:10:30 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
