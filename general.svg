@@ -1827,14 +1827,14 @@ sync region gates</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 367kb of code in 403 edited files across 209 commits over last 14 days</small>
+                <small>estimation from 366kb of code in 398 edited files across 205 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.39083876354096" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="446.39083876354096" y="0" width="13.60916123645902" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.3823320298614" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="446.3823320298614" y="0" width="13.617667970138642" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1846,7 +1846,7 @@ sync region gates</div>
                                 C#
                             </div>
                             <small>
-                                <div>7.68k lines</div>
+                                <div>7.67k lines</div>
                                 <div>327 kB</div>
                                 <div>97.04%</div>
                             </small>
@@ -1869,7 +1869,7 @@ sync region gates</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 04:32:54 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 05:15:30 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
