@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1790" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1474" class="">
     <defs>
         <style/>
     </defs>
@@ -337,6 +337,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xamionex/PTRAReworked</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9052709</div>
+                                        <div class="message">Add db to gitignore and rewrite some stuff for settings</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -399,118 +419,6 @@
                                     <div class="commit">
                                         <div class="sha">#f5a9bde</div>
                                         <div class="message">jumpscare</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 32 commits in
-                                        <span class="repo">xamionex/Rain-Meadow</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d2d8482</div>
-                                        <div class="message">fix storymenu button greyed out for clients
-
-oops</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86084a6</div>
-                                        <div class="message">Merge pull request #482 from henpemaz/fix-spearmaster-spears
-
-fix spearmaster spear sync</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21ebf6e</div>
-                                        <div class="message">sync spearmaster needles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86e1aa9</div>
-                                        <div class="message">Merge pull request #487 from henpemaz/fix-story-menu
-
-fix story menu breaking when remix disabled</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3894422</div>
-                                        <div class="message">Merge pull request #481 from henpemaz/fix-onlinehud
-
-fix and refactor onlinehud</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af750b4</div>
-                                        <div class="message">cleanup TriggerGhostHunch RPC</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1219a04</div>
-                                        <div class="message">Story: trim and sync savestate string</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cfc9ba</div>
-                                        <div class="message">OnlineHUD: don't cache entityId absplayer
-
-doesn't update between gate transitions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1a4cb0</div>
-                                        <div class="message">don't use vanilla StartGame for now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e279d1</div>
-                                        <div class="message">story menu client start button ENTER</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4aac582</div>
-                                        <div class="message">fix story menu breaking when remix disabled
-
-also clean up a bunch of other stuff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1763cc</div>
-                                        <div class="message">Story: rip out echo &amp; consumed item sync</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25d5905</div>
-                                        <div class="message">cleanup gate transition code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4df0bd</div>
-                                        <div class="message">refactor SpectatorOverlay</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3af647c</div>
-                                        <div class="message">Merge pull request #486 from henpemaz/sync-flarebombs
-
-sync flarebombs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd80f1c</div>
-                                        <div class="message">refactor exploders
-
-sync firecracker, fire egg, energy cell</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c6b696</div>
-                                        <div class="message">sync flarebombs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da9b4ef</div>
-                                        <div class="message">sync monster kelp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b38eca9</div>
-                                        <div class="message">update vscode tasks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee992a6</div>
-                                        <div class="message">Add story and arena</div>
                                     </div>
                                 </div>
                             </section>
@@ -1699,7 +1607,7 @@ sync firecracker, fire egg, energy cell</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 377kb of code in 393 edited files across 203 commits over last 14 days</small>
+                <small>estimation from 379kb of code in 398 edited files across 205 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1741,7 +1649,7 @@ sync firecracker, fire egg, energy cell</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 15:13:12 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 16:14:03 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
