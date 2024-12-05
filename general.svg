@@ -347,6 +347,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#5808c92</div>
+                                        <div class="message">Initial working prototype, TODO: fix speed</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xamionex/PTRAReworked</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7b68753</div>
                                         <div class="message">Small changes and use unix for stats</div>
                                     </div>
@@ -413,26 +433,6 @@
                                     <div class="commit">
                                         <div class="sha">#83ecb43</div>
                                         <div class="message">finally finish captions</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/PTRAReworked</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d1dbae0</div>
-                                        <div class="message">Add caption command</div>
                                     </div>
                                 </div>
                             </section>
@@ -1626,14 +1626,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 407kb of code in 407 edited files across 205 commits over last 14 days</small>
+                <small>estimation from 409kb of code in 408 edited files across 207 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.1590723303763" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="404.1590723303763" y="0" width="55.84092766962367" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.7736590710035" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="401.7736590710035" y="0" width="58.22634092899644" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1647,7 +1647,7 @@
                             <small>
                                 <div>6.94k lines</div>
                                 <div>290 kB</div>
-                                <div>87.86%</div>
+                                <div>87.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1658,9 +1658,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>980 lines</div>
-                                <div>40 kB</div>
-                                <div>12.14%</div>
+                                <div>1.01k lines</div>
+                                <div>42 kB</div>
+                                <div>12.66%</div>
                             </small>
                         </div>
                     </section>
@@ -1668,7 +1668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2024, 19:15:36 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 20:10:35 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
