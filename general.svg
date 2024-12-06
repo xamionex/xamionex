@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -347,6 +347,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#023286d</div>
+                                        <div class="message">Add URL to caption and more filetypes for url and mediaManager.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xamionex/PTRAReworked</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#9925cd8</div>
                                         <div class="message">simplify makegif check</div>
                                     </div>
@@ -409,26 +429,6 @@
                                     <div class="commit">
                                         <div class="sha">#dacab43</div>
                                         <div class="message">some changes</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/PTRAReworked</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#708333a</div>
-                                        <div class="message">Unreferenced stuff</div>
                                     </div>
                                 </div>
                             </section>
@@ -1590,14 +1590,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 483kb of code in 435 edited files across 229 commits over last 14 days</small>
+                <small>estimation from 474kb of code in 425 edited files across 227 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.7486393435356" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="328.7486393435356" y="0" width="131.2513606564644" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.55633343982777" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="324.55633343982777" y="0" width="135.44366656017226" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1609,9 +1609,9 @@
                                 C#
                             </div>
                             <small>
-                                <div>6.94k lines</div>
-                                <div>290 kB</div>
-                                <div>71.47%</div>
+                                <div>6.75k lines</div>
+                                <div>280 kB</div>
+                                <div>70.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1622,9 +1622,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.67k lines</div>
-                                <div>115 kB</div>
-                                <div>28.53%</div>
+                                <div>2.70k lines</div>
+                                <div>117 kB</div>
+                                <div>29.44%</div>
                             </small>
                         </div>
                     </section>
@@ -1632,7 +1632,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2024, 11:14:32 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2024, 12:11:32 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
