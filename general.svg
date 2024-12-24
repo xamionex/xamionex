@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1560" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1510" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -337,19 +337,33 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">xamionex/DarkwoodCustomizer</span>
+                                        Closed
+                                        <span class="issue">#22 [FEATURE] Resizing merchant ui</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#de1a13b</div>
-                                        <div class="message">Revert some changes due to parameters in game code</div>
+                                    <div>opened  in <span class="repo">xamionex/DarkwoodCustomizer</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#23 [BUG] Cant access button prompts at epilogue apartment</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Hazen063 in <span class="repo">xamionex/DarkwoodCustomizer</span></div>
                                 </div>
                             </section>
                         </div>
@@ -367,32 +381,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c996b1e</div>
-                                        <div class="message">Rename var in csproj too</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">xamionex/DarkwoodCustomizer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a8572eb</div>
-                                        <div class="message">Variables rename and some quality control</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1f820b</div>
-                                        <div class="message">null check in InventoryBackgrounds</div>
+                                        <div class="sha">#13587b8</div>
+                                        <div class="message">Bump Version</div>
                                     </div>
                                 </div>
                             </section>
@@ -405,13 +395,13 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#190 [FEATURE] Select multiple mods</span>
+                                        <span class="issue">#23 [BUG] Cant access button prompts at epilogue apartment</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by xamionex in <span class="repo">Kesomannen/gale</span></div>
-                                    <div class="comment">As long as one day it gets implemented I'm alright with it
-Thanks for making this, it's much better than r2mm</div>
+                                    <div>opened by Hazen063 in <span class="repo">xamionex/DarkwoodCustomizer</span></div>
+                                    <div class="comment">Fixed in da4383266a8b3cecbc6c5c17cd52db757588c75f
+Thanks for the save, saved a lot of time ^^</div>
                                 </div>
                             </section>
                         </div>
@@ -423,14 +413,14 @@ Thanks for making this, it's much better than r2mm</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">xamionex/LobbyHudCustomizer</span>
+                                        <span class="repo">xamionex/DarkwoodCustomizer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#62f3358</div>
-                                        <div class="message">Remove unused imports</div>
+                                        <div class="sha">#da43832</div>
+                                        <div class="message">Fix NRE with inventories and more quality control</div>
                                     </div>
                                 </div>
                             </section>
@@ -1518,7 +1508,7 @@ Thanks for making this, it's much better than r2mm</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            274 issue comments
+                            275 issue comments
                         </div>
                     </section>
                     <section>
@@ -1572,14 +1562,14 @@ Thanks for making this, it's much better than r2mm</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.56mb of code in 4034 edited files across 1310 commits</small>
+                <small>estimation from 3.56mb of code in 4042 edited files across 1312 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.13432666704438" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="239.13432666704438" y="0" width="220.86567333295565" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.7000487928359" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="240.7000487928359" y="0" width="219.2999512071641" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1591,9 +1581,9 @@ Thanks for making this, it's much better than r2mm</div>
                                 C#
                             </div>
                             <small>
-                                <div>7.64k lines</div>
-                                <div>422 kB</div>
-                                <div>51.99%</div>
+                                <div>7.72k lines</div>
+                                <div>427 kB</div>
+                                <div>52.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1606,7 +1596,7 @@ Thanks for making this, it's much better than r2mm</div>
                             <small>
                                 <div>7.03k lines</div>
                                 <div>389 kB</div>
-                                <div>48.01%</div>
+                                <div>47.67%</div>
                             </small>
                         </div>
                     </section>
@@ -1614,7 +1604,7 @@ Thanks for making this, it's much better than r2mm</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 222kb of code in 86 edited files across 40 commits over last 13 days</small>
+                <small>estimation from 234kb of code in 96 edited files across 44 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1632,8 +1622,8 @@ Thanks for making this, it's much better than r2mm</div>
                                 C#
                             </div>
                             <small>
-                                <div>2.81k lines</div>
-                                <div>216 kB</div>
+                                <div>2.97k lines</div>
+                                <div>228 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1642,7 +1632,7 @@ Thanks for making this, it's much better than r2mm</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2024, 17:13:59 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2024, 18:10:32 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
