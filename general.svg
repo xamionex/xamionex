@@ -1561,17 +1561,30 @@ Also want to clarify, I'm playing bloodborne using mainBB from diego,
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.09mb of code in 3679 edited files across 1175 commits</small>
+                <small>estimation from 3.56mb of code in 4042 edited files across 1312 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.97929399513964" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="236.97929399513964" y="0" width="223.02070600486036" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.7000487928359" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="240.7000487928359" y="0" width="219.2999512071641" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                C#
+                            </div>
+                            <small>
+                                <div>7.72k lines</div>
+                                <div>427 kB</div>
+                                <div>52.33%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1582,20 +1595,7 @@ Also want to clarify, I'm playing bloodborne using mainBB from diego,
                             <small>
                                 <div>7.03k lines</div>
                                 <div>389 kB</div>
-                                <div>51.52%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>8.10k lines</div>
-                                <div>366 kB</div>
-                                <div>48.48%</div>
+                                <div>47.67%</div>
                             </small>
                         </div>
                     </section>
@@ -1613,7 +1613,7 @@ Also want to clarify, I'm playing bloodborne using mainBB from diego,
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2025, 12:29:46 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2025, 13:21:58 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
