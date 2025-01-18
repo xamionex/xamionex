@@ -1569,7 +1569,7 @@ Epic always asks for authentication on startup even though I re-authenticated an
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 11 days</small>
+                  over last 12 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -1577,7 +1577,7 @@ Epic always asks for authentication on startup even though I re-authenticated an
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2025, 22:11:01 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2025, 23:10:21 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
