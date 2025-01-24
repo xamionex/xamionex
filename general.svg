@@ -346,6 +346,29 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Virgula0 in <span class="repo">shadps4-emu/shadPS4</span></div>
+                                    <div class="comment">
+                                        <i>In few days I should be able to recheck this</i>
+                                        I don't think you need to load fully into games, you could just sit on main menu and hit Win+D
+(or whatever's the equivalent to show desktop on your linux de)
+It always crashes when the window gets minimized, not sure if this happens on linux tho, havent tested
+Alt-tabbing is fine and even non-focusing is fine too, just minimizing is what causes it
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1629 Graphics freeze after full minimize when returning to ShadPS4 window but the Game still runs in background with sound and controls</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Virgula0 in <span class="repo">shadps4-emu/shadPS4</span></div>
                                     <div class="comment">Still happens on latest prerelease cef92fbcaad34e0caa90bc5afbce5e5b30c43636</div>
                                 </div>
                             </section>
@@ -408,28 +431,6 @@ You should just run a vm with win11 (I use vmware but if you don't want an accou
                                     <div>opened by frxffr in <span class="repo">diegolix29/shadPS4</span></div>
                                     <div class="comment">It looks like it's a windows 11 issue, can you confirm?
 https://github.com/shadps4-emu/shadPS4/issues/2099</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#27 [Feature Request]: idk where to ask, i would like the 0.4.1 version to be back up since it's the most recent one that works with amd processors.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by frxffr in <span class="repo">diegolix29/shadPS4</span></div>
-                                    <div class="comment">Not sure what you've tried but for now atleast I guess you could try 0.4.1
-Here's the newest 0.4.1 build I could find https://github.com/diegolix29/shadPS4/releases/tag/PGO-shadPS4-2024-12-18-f83efab
-You should also clarify when your crash happens and probably which specs you have
-also if it still happens on this version then it's probably just a bad dump of the game
-Also is your game CUSA03173 or CUSA00900?
-CUSA00900 seems to have been crashing for some people</div>
                                 </div>
                             </section>
                         </div>
@@ -1592,7 +1593,7 @@ CUSA00900 seems to have been crashing for some people</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 01:53:35 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 03:11:11 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
