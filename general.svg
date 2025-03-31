@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1559,14 +1559,14 @@ also if it's still crashing for you, whilst it was crashing for me i did chmod -
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.62mb of code in 4099 edited files across 1327 commits</small>
+                <small>estimation from 3.62mb of code in 4104 edited files across 1329 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.7000487928359" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="240.7000487928359" y="0" width="219.2999512071641" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.23904002800566" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="266.23904002800566" y="0" width="193.76095997199434" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1578,9 +1578,9 @@ also if it's still crashing for you, whilst it was crashing for me i did chmod -
                                 C#
                             </div>
                             <small>
-                                <div>7.72k lines</div>
-                                <div>427 kB</div>
-                                <div>52.33%</div>
+                                <div>10k lines</div>
+                                <div>535 kB</div>
+                                <div>57.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1593,7 +1593,7 @@ also if it's still crashing for you, whilst it was crashing for me i did chmod -
                             <small>
                                 <div>7.03k lines</div>
                                 <div>389 kB</div>
-                                <div>47.67%</div>
+                                <div>42.12%</div>
                             </small>
                         </div>
                     </section>
@@ -1643,7 +1643,7 @@ also if it's still crashing for you, whilst it was crashing for me i did chmod -
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2025, 22:15:26 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2025, 23:12:41 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
