@@ -1612,7 +1612,7 @@ also if it's still crashing for you, whilst it was crashing for me i did chmod -
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 9.16kb of code in 15 edited files across 10 commits over last 4 days</small>
+                <small>estimation from 9.16kb of code in 15 edited files across 10 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1654,7 +1654,7 @@ also if it's still crashing for you, whilst it was crashing for me i did chmod -
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2025, 20:17:28 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2025, 21:11:03 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
