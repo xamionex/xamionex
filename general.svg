@@ -1610,7 +1610,7 @@ Co-authored-by: TrinityDusk &lt;117664388+TrinityDusk@users.noreply.github.com&g
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 12.5kb of code in 36 edited files across 18 commits over last 5 days</small>
+                <small>estimation from 12.5kb of code in 36 edited files across 18 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1652,7 +1652,7 @@ Co-authored-by: TrinityDusk &lt;117664388+TrinityDusk@users.noreply.github.com&g
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2025, 20:17:58 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2025, 21:11:11 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
