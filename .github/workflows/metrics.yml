@@ -41,7 +41,7 @@ jobs:
               plugin_anilist: yes
               plugin_anilist_medias: anime
               plugin_anilist_sections: favorites, watching
-              plugin_anilist_shuffle: yes
+              plugin_anilist_shuffle: no
               plugin_anilist_user: amione
 
          - name: Coding
