@@ -1608,7 +1608,7 @@ It was working before I switched to the aur installation and now it's not inject
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.72kb of code in 33 edited files across 16 commits over last 14 days</small>
+                <small>estimation from 7.47kb of code in 27 edited files across 12 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1626,8 +1626,8 @@ It was working before I switched to the aur installation and now it's not inject
                                 C#
                             </div>
                             <small>
-                                <div>138 lines</div>
-                                <div>8.15 kB</div>
+                                <div>122 lines</div>
+                                <div>7.12 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1636,7 +1636,7 @@ It was working before I switched to the aur installation and now it's not inject
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2025, 22:15:22 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2025, 23:12:44 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
