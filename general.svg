@@ -1554,14 +1554,14 @@ Bump version</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.61mb of code in 4116 edited files across 1334 commits</small>
+                <small>estimation from 3.61mb of code in 4120 edited files across 1335 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.3701799349228" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="269.3701799349228" y="0" width="190.62982006507718" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.59989977321567" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="269.59989977321567" y="0" width="190.40010022678433" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1574,8 +1574,8 @@ Bump version</div>
                             </div>
                             <small>
                                 <div>10.3k lines</div>
-                                <div>550 kB</div>
-                                <div>58.56%</div>
+                                <div>552 kB</div>
+                                <div>58.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1588,7 +1588,7 @@ Bump version</div>
                             <small>
                                 <div>7.03k lines</div>
                                 <div>389 kB</div>
-                                <div>41.44%</div>
+                                <div>41.39%</div>
                             </small>
                         </div>
                     </section>
@@ -1638,7 +1638,7 @@ Bump version</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2025, 21:14:03 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2025, 22:16:28 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
