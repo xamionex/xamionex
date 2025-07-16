@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1564,14 +1564,14 @@ https://github.com/SteamGridDB/decky-steamgriddb/blob/99ec110ff2f21228dc7b5f1e47
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.61mb of code in 4120 edited files across 1335 commits</small>
+                <small>estimation from 3.61mb of code in 4123 edited files across 1336 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.59989977321567" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="269.59989977321567" y="0" width="190.40010022678433" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.82422651713995" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="269.82422651713995" y="0" width="190.1757734828601" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1583,9 +1583,9 @@ https://github.com/SteamGridDB/decky-steamgriddb/blob/99ec110ff2f21228dc7b5f1e47
                                 C#
                             </div>
                             <small>
-                                <div>10.3k lines</div>
-                                <div>552 kB</div>
-                                <div>58.61%</div>
+                                <div>10.4k lines</div>
+                                <div>553 kB</div>
+                                <div>58.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1598,7 +1598,7 @@ https://github.com/SteamGridDB/decky-steamgriddb/blob/99ec110ff2f21228dc7b5f1e47
                             <small>
                                 <div>7.03k lines</div>
                                 <div>389 kB</div>
-                                <div>41.39%</div>
+                                <div>41.34%</div>
                             </small>
                         </div>
                     </section>
@@ -1648,7 +1648,7 @@ https://github.com/SteamGridDB/decky-steamgriddb/blob/99ec110ff2f21228dc7b5f1e47
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2025, 03:07:54 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2025, 05:24:17 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
