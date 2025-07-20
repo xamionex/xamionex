@@ -1594,14 +1594,14 @@ For me it's alright since I have my laptop and can always Moonlight in to my pc 
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 86.6kb of code in 38 edited files across 10 commits over last 14 days</small>
+                <small>estimation from 28.8kb of code in 21 edited files across 8 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.1869829331791" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="436.1869829331791" y="0" width="23.813017066820944" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.9876832639351" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="387.9876832639351" y="0" width="72.01231673606495" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1613,9 +1613,9 @@ For me it's alright since I have my laptop and can always Moonlight in to my pc 
                                 Shell
                             </div>
                             <small>
-                                <div>2.71k lines</div>
-                                <div>81.9 kB</div>
-                                <div>94.82%</div>
+                                <div>874 lines</div>
+                                <div>24.1 kB</div>
+                                <div>84.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1628,7 +1628,7 @@ For me it's alright since I have my laptop and can always Moonlight in to my pc 
                             <small>
                                 <div>76 lines</div>
                                 <div>4.47 kB</div>
-                                <div>5.18%</div>
+                                <div>15.65%</div>
                             </small>
                         </div>
                     </section>
@@ -1636,7 +1636,7 @@ For me it's alright since I have my laptop and can always Moonlight in to my pc 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2025, 00:13:46 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2025, 01:15:26 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
