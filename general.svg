@@ -350,6 +350,33 @@
                                 <div class="details">
                                     <div>opened by BrianAllred in <span class="repo">wunnr/partydeck-rs</span></div>
                                     <div class="comment">
+                                        <i>
+                                            <i>That's great but as I know the gamescope fork doesn't have its AUR either, do you plan to make that a thing too? (shouldn't be too hard as there's already gamescope-git)</i>
+                                            @xamionex 
+Gamescope-kbm is just my fork that includes some patches to allow keyboards / mice to be isolated via libinput, I already tried to merge it upstream, so whenever that happens, it will no longer be needed to be special in this project
+If you know how to make them support it, please help: ValveSoftware/gamescope #1897
+I only made it two weeks ago for this project, so its not packaged anywhere as I just made some changes to allow this project to work with keyboards in the easiest way I could do it. :)
+If you want to do something like that, you can, but I think getting valve to accept it officially would be easier lol
+                                        </i>
+                                        Sounds great but I have no idea how to communicate with valve... I could drop some positive feedback on it if you want me to, I'll test some games and if it's alright I'll drop a comment and if not I'll make an issue on your fork?
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#30 [Feature request] Download resources into the current user's XDG_DATA_HOME folder</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by BrianAllred in <span class="repo">wunnr/partydeck-rs</span></div>
+                                    <div class="comment">
                                         <i>Actually, I'm just gonna gut all of the in-app dependency downloading stuff for now; I haven't really been happy with that approach and I don't see any good reason to not just bundle dependencies in with the releases, as their licenses seem to permit that.
 Tomorrow/Wednesday I'll put out a new version of the app that checks /usr/bin first for the two dependency binaries (umu-run and gamescope-kbm) and /usr/share/partydeck for data files (goldberg dlls and the kwin scripts), then falls back to the portable folders if the system folders don't have the required files. That way, if you want to make an aur package, you could do a pkgbuild that downloads the release tarball that bundles everything, place the relevant files in their respective system folders, and have a good system installation that way.</i>
                                         That's great but as I know the gamescope fork doesn't have its AUR either, do you plan to make that a thing too? (shouldn't be too hard as there's already gamescope-git)
@@ -444,26 +471,6 @@ One challenge is that right now, the
 You could also have it built into /opt/partydeck-rs/ and the "binary" be just a symlink in /usr/bin
 One example is tetrio: https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=tetrio-plus-bin
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#38 [Feature request] Detach from games</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xamionex in <span class="repo">wunnr/partydeck-rs</span></div>
-                                    <div class="comment">Nah I quite expected it to be weird and hard to implement, it's all up to you guys since I have no idea how libinput works, nor the modified gamescope
-I just made the feature req. since I know people without lets say, +1 set of inputs are gonna struggle with doing things outside of the game when they have to, sort of like future proofing haha
-For me it's alright since I have my laptop and can always Moonlight in to my pc no issue
-(your proposed solution sounds fine to me too though)</div>
                                 </div>
                             </section>
                         </div>
@@ -1645,7 +1652,7 @@ For me it's alright since I have my laptop and can always Moonlight in to my pc 
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28.8kb of code in 21 edited files across 8 commits over last 11 days</small>
+                <small>estimation from 28.8kb of code in 21 edited files across 8 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1687,7 +1694,7 @@ For me it's alright since I have my laptop and can always Moonlight in to my pc 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2025, 12:16:11 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2025, 13:13:47 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
