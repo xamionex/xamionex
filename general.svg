@@ -1627,14 +1627,14 @@ One example is tetrio: https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=te
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28.8kb of code in 21 edited files across 8 commits over last 14 days</small>
+                <small>estimation from 27.9kb of code in 17 edited files across 6 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.9876832639351" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="387.9876832639351" y="0" width="72.01231673606495" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.9888812925048" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="398.9888812925048" y="0" width="61.01111870749523" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1648,7 +1648,7 @@ One example is tetrio: https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=te
                             <small>
                                 <div>874 lines</div>
                                 <div>24.1 kB</div>
-                                <div>84.35%</div>
+                                <div>86.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1659,9 +1659,9 @@ One example is tetrio: https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=te
                                 C#
                             </div>
                             <small>
-                                <div>76 lines</div>
-                                <div>4.47 kB</div>
-                                <div>15.65%</div>
+                                <div>64 lines</div>
+                                <div>3.69 kB</div>
+                                <div>13.26%</div>
                             </small>
                         </div>
                     </section>
@@ -1669,7 +1669,7 @@ One example is tetrio: https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=te
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2025, 00:14:16 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2025, 01:14:41 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
