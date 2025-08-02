@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1552,14 +1552,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.63mb of code in 4131 edited files across 1340 commits</small>
+                <small>estimation from 3.65mb of code in 4136 edited files across 1342 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.82422651713995" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="269.82422651713995" y="0" width="190.1757734828601" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.3067788572056" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="274.3067788572056" y="0" width="185.69322114279444" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1571,9 +1571,9 @@
                                 C#
                             </div>
                             <small>
-                                <div>10.4k lines</div>
-                                <div>553 kB</div>
-                                <div>58.66%</div>
+                                <div>10.5k lines</div>
+                                <div>575 kB</div>
+                                <div>59.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1586,7 +1586,7 @@
                             <small>
                                 <div>7.03k lines</div>
                                 <div>389 kB</div>
-                                <div>41.34%</div>
+                                <div>40.37%</div>
                             </small>
                         </div>
                     </section>
@@ -1594,7 +1594,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 29.1kb of code in 34 edited files across 7 commits over last 7 days</small>
+                <small>estimation from 29.1kb of code in 35 edited files across 8 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1622,7 +1622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2025, 20:20:25 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2025, 21:11:29 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
