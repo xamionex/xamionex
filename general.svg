@@ -1624,14 +1624,14 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 215kb of code in 58 edited files across 22 commits over last 8 days</small>
+                <small>estimation from 215kb of code in 57 edited files across 21 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.681373707367" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="343.681373707367" y="0" width="116.31862629263297" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.60999611549914" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="343.60999611549914" y="0" width="116.39000388450084" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1645,7 +1645,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <small>
                                 <div>2.31k lines</div>
                                 <div>132 kB</div>
-                                <div>74.71%</div>
+                                <div>74.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1658,7 +1658,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <small>
                                 <div>190 lines</div>
                                 <div>44.9 kB</div>
-                                <div>25.29%</div>
+                                <div>25.3%</div>
                             </small>
                         </div>
                     </section>
@@ -1666,7 +1666,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2025, 16:12:51 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Aug 2025, 17:15:14 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
