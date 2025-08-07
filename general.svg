@@ -1581,7 +1581,7 @@ But then the windows never popped up, so I added "game.dll_overrides": ["ddraw"]
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.87mb of code in 4177 edited files across 1370 commits</small>
+                <small>estimation from 3.87mb of code in 4178 edited files across 1371 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1665,7 +1665,7 @@ But then the windows never popped up, so I added "game.dll_overrides": ["ddraw"]
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2025, 15:37:25 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2025, 16:19:27 (timezone Europe/Belgrade) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
