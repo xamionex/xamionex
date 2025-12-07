@@ -10,61 +10,11 @@ jobs:
    metrics:
       runs-on: ubuntu-latest
       steps:
-         - name: Socials
+         - name: Main
            if: ${{ success() || failure() }}
-           uses: lowlighter/metrics@latest
+           uses: gh-metrics/metrics@latest
            with:
-              filename: socials.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              base: ""
-              config_timezone: Europe/Belgrade
-              config_order: steam, music, anilist
-
-              plugin_music: yes
-              plugin_music_token: ${{ secrets.YTM_TOKEN }}
-              plugin_music_limit: 4
-              plugin_music_mode: recent
-              plugin_music_provider: youtube
-              plugin_music_time_range: short
-              plugin_music_top_type: tracks
-              plugin_music_user: pt.r
-              #plugin_steam: yes
-              #plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-              #plugin_steam_user: 76561198152182139
-              plugin_anilist: yes
-              plugin_anilist_medias: anime
-              plugin_anilist_sections: favorites, watching
-              plugin_anilist_shuffle: no
-              plugin_anilist_user: amione
-
-         - name: Coding
-           if: ${{ success() || failure() }}
-           uses: lowlighter/metrics@latest
-           with:
-              filename: coding.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              base: ""
-              config_timezone: Europe/Belgrade
-              config_order: achievements, wakatime
-
-              plugin_wakatime: yes
-              plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-              plugin_wakatime_days: 7
-              plugin_wakatime_languages_other: yes
-              plugin_wakatime_limit: 5
-              plugin_wakatime_repositories_visibility: all
-              plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-              plugin_wakatime_url: https://wakatime.com
-              #plugin_achievements: yes
-              #plugin_achievements_only: >- polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
-              #plugin_achievements_display: compact
-              #plugin_achievements_threshold: X
-
-         - name: General
-           if: ${{ success() || failure() }}
-           uses: lowlighter/metrics@latest
-           with:
-              filename: general.svg
+              filename: main.svg
               token: ${{ secrets.METRICS_TOKEN }}
               config_timezone: Europe/Belgrade
               config_order: base.header, base.activity, base.community, base.repositories, base.metadata, discussions, people, reactions, activity, isocalendar
@@ -84,3 +34,42 @@ jobs:
               plugin_reactions_details: percentage
               plugin_people: yes
               plugin_people_types: followers, following
+
+         - name: Second
+           if: ${{ success() || failure() }}
+           uses: gh-metrics/metrics@latest
+           with:
+              filename: second.svg
+              token: ${{ secrets.METRICS_TOKEN }}
+              base: ""
+              config_timezone: Europe/Belgrade
+              config_order: steam, music, anilist, achievements, wakatime
+
+              plugin_music: yes
+              plugin_music_token: ${{ secrets.YTM_TOKEN }}
+              plugin_music_limit: 4
+              plugin_music_mode: recent
+              plugin_music_provider: youtube
+              plugin_music_time_range: short
+              plugin_music_top_type: tracks
+              plugin_music_user: pt.r
+              #plugin_steam: yes
+              #plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+              #plugin_steam_user: 76561198152182139
+              plugin_anilist: yes
+              plugin_anilist_medias: anime
+              plugin_anilist_sections: favorites, watching
+              plugin_anilist_shuffle: no
+              plugin_anilist_user: amione
+              plugin_wakatime: yes
+              plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+              plugin_wakatime_days: 7
+              plugin_wakatime_languages_other: yes
+              plugin_wakatime_limit: 5
+              plugin_wakatime_repositories_visibility: all
+              plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+              plugin_wakatime_url: https://wakatime.com
+              #plugin_achievements: yes
+              #plugin_achievements_only: >- polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+              #plugin_achievements_display: compact
+              #plugin_achievements_threshold: X
