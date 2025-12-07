@@ -56,9 +56,7 @@ jobs:
               plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
               plugin_wakatime_url: https://wakatime.com
               #plugin_achievements: yes
-              #plugin_achievements_only: >-
-                polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-                scripter, packager, explorer, infographile, manager
+              #plugin_achievements_only: >- polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
               #plugin_achievements_display: compact
               #plugin_achievements_threshold: X
 
