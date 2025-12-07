@@ -12,7 +12,7 @@ jobs:
       steps:
          - name: Main
            if: ${{ success() || failure() }}
-           uses: lowlighter/metrics@latest
+           uses: lowlighter/metrics@v3.35-beta
            with:
               filename: main.svg
               token: ${{ secrets.METRICS_TOKEN }}
@@ -24,8 +24,8 @@ jobs:
               plugin_isocalendar: yes
               plugin_languages: yes
               plugin_languages_details: lines, bytes-size, percentage
-              plugin_languages_sections: most-used, recently-used
-              plugin_languages_indepth: yes
+              plugin_languages_sections: most-used
+              plugin_languages_indepth: no
               plugin_languages_limit: 2
               plugin_discussions: yes
               plugin_activity: yes
@@ -37,7 +37,7 @@ jobs:
 
          - name: Second
            if: ${{ success() || failure() }}
-           uses: lowlighter/metrics@latest
+           uses: lowlighter/metrics@v3.35-beta
            with:
               filename: second.svg
               token: ${{ secrets.METRICS_TOKEN }}
