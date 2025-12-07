@@ -12,7 +12,7 @@ jobs:
       steps:
          - name: Main
            if: ${{ success() || failure() }}
-           uses: lowlighter/metrics@v3.35-beta
+           uses: lowlighter/metrics@latest
            with:
               filename: main.svg
               token: ${{ secrets.METRICS_TOKEN }}
@@ -37,7 +37,7 @@ jobs:
 
          - name: Second
            if: ${{ success() || failure() }}
-           uses: lowlighter/metrics@v3.35-beta
+           uses: lowlighter/metrics@latest
            with:
               filename: second.svg
               token: ${{ secrets.METRICS_TOKEN }}
